@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AFNnpqWGngEe8FUrwcc7kPb2ooXZP9u6dzbfehBnoBT",
+      "symbol": "USDTW",
+      "name": "USDTW",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/afritz77/usdt-token/main/whale-logo.png",
+      "tags": [
+        "Meme token"
+      ]
     }
   ],
   "version": {
